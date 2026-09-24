@@ -164,7 +164,7 @@ Both models run locally through Ollama.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/rag-from-scratch.git
+git clone https://github.com/NaoufalBgit/rag-from-scratch.git
 cd rag-from-scratch
 ```
 
@@ -184,12 +184,6 @@ source .venv/bin/activate
 
 ```bash
 pip install -r requirements.txt
-```
-
-Example `requirements.txt`:
-
-```text
-ollama
 ```
 
 ### 4. Install Ollama models
